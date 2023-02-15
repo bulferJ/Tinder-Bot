@@ -4,4 +4,4 @@ This is a personal program I am writing which will automate certain repetitive t
 
 Online dating requires repeating many tasks, such as swiping, sending the same messages, such as introducing yourself which is often the same "hey" or something similar. For a programmer such as myself, I will automate these tasks using a selenium web bot. 
 
-I will declassify the current code publicly by the end of this month.
+I have released sample code which will only work with certain requirements which I will specify in future documentation.
